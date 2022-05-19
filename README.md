@@ -1,6 +1,5 @@
 # shopify-image-repo
-### Shopify Winter 2020 Developer Intern Challenge Question
-### Lovingly made by Ben Chapman-Kish :)
+### Shopify 2022 Data Engineer Intern Challenge Question
 
 This is a demonstrative image repository with capacity for selling products.
 
